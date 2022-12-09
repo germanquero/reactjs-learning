@@ -25,3 +25,6 @@ function Resultado(props) {
 }
 
 export default Resultado;
+
+
+// Developed by: German Quero Jimenez

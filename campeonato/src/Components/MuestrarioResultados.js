@@ -23,3 +23,6 @@ function MuestrarioResultados(props) {
 }
 
 export default MuestrarioResultados;
+
+
+// Developed by: German Quero Jimenez

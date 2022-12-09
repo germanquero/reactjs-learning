@@ -50,3 +50,6 @@ function Partidos(props) {
 }
 
 export default Partidos;
+
+
+// Developed by: German Quero Jimenez

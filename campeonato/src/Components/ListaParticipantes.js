@@ -10,3 +10,6 @@ function ListaParticipantes(props) {
 }
 
 export default ListaParticipantes;
+
+
+// Developed by: German Quero Jimenez

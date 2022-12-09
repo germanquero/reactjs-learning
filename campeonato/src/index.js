@@ -37,3 +37,6 @@ function App() {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
+
+
+// Developed by: German Quero Jimenez

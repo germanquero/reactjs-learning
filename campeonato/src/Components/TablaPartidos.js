@@ -20,3 +20,6 @@ function TablaPartidos(props) {
 }
 
 export default TablaPartidos;
+
+
+// Developed by: German Quero Jimenez

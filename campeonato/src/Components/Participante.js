@@ -22,3 +22,6 @@ function Participante(props) {
 }
 
 export default Participante;
+
+
+// Developed by: German Quero Jimenez

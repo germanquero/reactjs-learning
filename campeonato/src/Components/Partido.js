@@ -11,3 +11,6 @@ function Partido(props) {
 }
 
 export default Partido;
+
+
+// Developed by: German Quero Jimenez
